@@ -1,4 +1,4 @@
-#Sparse Matrix Implementation in C++
+# Sparse Matrix Implementation in C++
 
 This README provides an overview and guide for the sparse matrix implementation in C++. The code includes two main approaches for storing and manipulating sparse matrices: one using a sparse array and the other using a linked list. Below, we will cover the details of both implementations and how to use them.
 
